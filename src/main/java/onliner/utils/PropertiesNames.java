@@ -1,0 +1,16 @@
+package onliner.utils;
+
+public enum PropertiesNames {
+
+	PLATFORM_NAME, 
+	PLATFORM_VERSION, 
+	DEVICE_NAME, 
+	APP_DIR, 
+	APP_NAME, 
+	APP_PACKAGE, 
+	APP_ACTIVITY, 
+	APPIUM_DRIVER_LOCAL_SERVICE,
+	BASE_URL, 
+	IMPLICIT_WAIT;
+
+}
